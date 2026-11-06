@@ -1,0 +1,9 @@
+.DS_Store
+*.env
+*.seed
+account.json
+*.age
+da-peers.json
+tailnet-key.age
+node_modules/
+.pnpm-store/
